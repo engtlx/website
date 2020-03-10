@@ -1,0 +1,28 @@
+body{background-color: green;
+margin: 30px;
+}
+p{
+    font-size: 70px;
+    color: chartreuse;
+    text-overflow: ellipsis;
+}
+h1 {
+    color: rgb(255, 251, 0);
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 30px;
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+
+}
+img{
+    top: auto;
+    font-style: inherit;
+    font-size: 80px;
+    text-size-adjust: 60px;
+}
